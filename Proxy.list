@@ -11,3 +11,9 @@
 #    - RULE-SET,apple,REJECT # Premium only
 #    - MATCH,auto
 
+
+- DOMAIN-KEYWORD,google
+- DOMAIN-KEYWORD,github
+- DOMAIN,stackoverflow.com
+
+
