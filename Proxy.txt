@@ -1,2 +1,4 @@
-- '+.google.com'
+payload:
+  - '+.a1.mzstatic.com'
+  - '+.google.com'
 
