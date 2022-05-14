@@ -1,4 +1,4 @@
 payload:
-  - '+.a1.mzstatic.com'
   - '+.google.com'
+  - '+.www.91porn.com'
 
