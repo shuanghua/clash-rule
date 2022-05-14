@@ -4,3 +4,4 @@ payload:
   - DOMAIN-KEYWORD,91porn
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN,cdn.jsdelivr.net
