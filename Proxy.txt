@@ -6,4 +6,4 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,github
   - DOMAIN,cdn.jsdelivr.net
-  - raw.githubusercontent.com
+  - DOMAIN,raw.githubusercontent.com
