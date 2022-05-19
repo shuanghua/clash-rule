@@ -1,12 +1,22 @@
 payload:
   - DOMAIN-SUFFIX,google.com
+  
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,catalog.gamepass.com
+  
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,91porn
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,github
-  - DOMAIN,cdn.jsdelivr.net
   - DOMAIN-KEYWORD,githubusercontent
+  - DOMAIN-KEYWORD,jetbrains
+  - DOMAIN-KEYWORD,octotree
+  - DOMAIN-KEYWORD,deepl
+  - DOMAIN-KEYWORD,stripe
+  - DOMAIN-KEYWORD,woocommerce
+  - DOMAIN-KEYWORD,ctfassets
+  
   - '185.199.110.0/23'
   - '13.107.246.0/23'
   - '104.16.85.0/23'
