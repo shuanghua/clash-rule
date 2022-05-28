@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,woocommerce
   - DOMAIN-KEYWORD,ctfassets
+  - DOMAIN-KEYWORD,hbzb
   
   - '185.199.110.0/23'
   - '13.107.246.0/23'
