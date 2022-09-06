@@ -4,6 +4,7 @@ payload:
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,catalog.gamepass.com
   - DOMAIN,store.steampowered.com
+  - DOMAIN,www.battlemetrics.com
   
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,91porn
