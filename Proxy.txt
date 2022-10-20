@@ -21,6 +21,7 @@ payload:
   - DOMAIN-KEYWORD,hbzb
   - DOMAIN-KEYWORD,accuweather
   - DOMAIN-KEYWORD,v2ex
+  - DOMAIN-KEYWORD,survivetheark
 
   - '185.199.110.0/23'
   - '13.107.246.0/23'
