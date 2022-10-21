@@ -5,6 +5,7 @@ payload:
   - DOMAIN,catalog.gamepass.com
   - DOMAIN,store.steampowered.com
   - DOMAIN,www.battlemetrics.com
+  - DOMAIN,www.wagnardsoft.com
   
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,91porn
