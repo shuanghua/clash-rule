@@ -6,6 +6,7 @@ payload:
   - DOMAIN,store.steampowered.com
   - DOMAIN,www.battlemetrics.com
   - DOMAIN,www.wagnardsoft.com
+  - DOMAIN,v2rayssr.com
   
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,91porn
@@ -25,6 +26,7 @@ payload:
   - DOMAIN-KEYWORD,survivetheark
   - DOMAIN-KEYWORD,deepl
   - DOMAIN-KEYWORD,battleye
+
 
   - '185.199.110.0/23'
   - '13.107.246.0/23'
