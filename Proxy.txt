@@ -7,6 +7,7 @@ payload:
   - DOMAIN,www.battlemetrics.com
   - DOMAIN,www.wagnardsoft.com
   - DOMAIN,v2rayssr.com
+  - DOMAIN,sourceforge.net
   
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,91porn
