@@ -9,6 +9,7 @@ payload:
   - DOMAIN,v2rayssr.com
   - DOMAIN,sourceforge.net
   - DOMAIN,sqlite.org
+  - DOMAIN,www.utorrent.com
   
   
   - DOMAIN-KEYWORD,google
