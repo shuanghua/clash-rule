@@ -1,0 +1,38 @@
+
+DOMAIN-SUFFIX,google.com
+
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,catalog.gamepass.com
+DOMAIN,store.steampowered.com
+DOMAIN,www.battlemetrics.com
+DOMAIN,www.wagnardsoft.com
+DOMAIN,v2rayssr.com
+DOMAIN,sourceforge.net
+DOMAIN,sqlite.org
+DOMAIN,www.utorrent.com
+DOMAIN,www.vspeed.org
+
+
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,91porn
+DOMAIN-KEYWORD,xvideos
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,githubusercontent
+DOMAIN-KEYWORD,jetbrains
+DOMAIN-KEYWORD,octotree
+DOMAIN-KEYWORD,deepl
+DOMAIN-KEYWORD,stripe
+DOMAIN-KEYWORD,woocommerce
+DOMAIN-KEYWORD,ctfassets
+DOMAIN-KEYWORD,hbzb
+DOMAIN-KEYWORD,accuweather
+DOMAIN-KEYWORD,v2ex
+DOMAIN-KEYWORD,survivetheark
+DOMAIN-KEYWORD,deepl
+DOMAIN-KEYWORD,battleye
+
+
+IP-CIDR 185.199.110.0/23 no-resolve
+IP-CIDR 13.107.246.0/23 no-resolve
+IP-CIDR 104.16.85.0/23 no-resolve
