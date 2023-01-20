@@ -10,6 +10,7 @@ payload:
   - DOMAIN,sourceforge.net
   - DOMAIN,sqlite.org
   - DOMAIN,www.utorrent.com
+  - DOMAIN,www.vspeed.org
   
   
   - DOMAIN-KEYWORD,google
