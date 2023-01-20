@@ -1,5 +1,8 @@
 
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,gstatic.com
+
 
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,catalog.gamepass.com
@@ -33,6 +36,6 @@ DOMAIN-KEYWORD,deepl
 DOMAIN-KEYWORD,battleye
 
 
-IP-CIDR 185.199.110.0/23 no-resolve
-IP-CIDR 13.107.246.0/23 no-resolve
-IP-CIDR 104.16.85.0/23 no-resolve
+IP-CIDR 185.199.110.0/23, no-resolve
+IP-CIDR 13.107.246.0/23, no-resolve
+IP-CIDR 104.16.85.0/23, no-resolve

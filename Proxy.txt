@@ -1,6 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,google.com
-  
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,gstatic.com
+
+
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,catalog.gamepass.com
   - DOMAIN,store.steampowered.com
@@ -11,8 +14,8 @@ payload:
   - DOMAIN,sqlite.org
   - DOMAIN,www.utorrent.com
   - DOMAIN,www.vspeed.org
-  
-  
+
+
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,91porn
   - DOMAIN-KEYWORD,xvideos
@@ -32,7 +35,6 @@ payload:
   - DOMAIN-KEYWORD,deepl
   - DOMAIN-KEYWORD,battleye
   
-
 
   - '185.199.110.0/23'
   - '13.107.246.0/23'
