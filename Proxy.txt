@@ -35,6 +35,7 @@ peepayload:
   - DOMAIN-KEYWORD,survivetheark
   - DOMAIN-KEYWORD,battleye
   - DOMAIN-KEYWORD,intellij
+  - DOMAIN-KEYWORD,nvidiagrid
   
 
   - '185.199.110.0/23'

@@ -34,6 +34,8 @@ DOMAIN-KEYWORD,accuweather
 DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,survivetheark
 DOMAIN-KEYWORD,battleye
+DOMAIN-KEYWORD,intellij
+DOMAIN-KEYWORD,nvidiagrid
 
 
 IP-CIDR 185.199.110.0/23, no-resolve
