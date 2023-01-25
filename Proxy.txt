@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,battlemetrics.com
+  - DOMAIN-SUFFIX,btloader.com
+  - DOMAIN-SUFFIX,ipify.org
 
 
   - DOMAIN,cdn.jsdelivr.net
