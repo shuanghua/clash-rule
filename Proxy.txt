@@ -1,4 +1,4 @@
-payload:
+peepayload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,gstatic.com
@@ -33,7 +33,6 @@ payload:
   - DOMAIN-KEYWORD,accuweather
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,survivetheark
-  - DOMAIN-KEYWORD,deepl
   - DOMAIN-KEYWORD,battleye
   
 
