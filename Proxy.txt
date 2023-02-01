@@ -41,6 +41,7 @@ payload:
   - DOMAIN-KEYWORD,intellij
   - DOMAIN-KEYWORD,nvidiagrid
   - DOMAIN-KEYWORD,arkservers
+  - DOMAIN-KEYWORD,drawboard
   
 
   - '185.199.110.0/23'
