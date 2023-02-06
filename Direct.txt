@@ -6,6 +6,7 @@ payload:
 
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,666java.com
 
 
   - IP-CIDR, 127.0.0.0/8
