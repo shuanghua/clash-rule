@@ -1,8 +1,11 @@
-
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,battlemetrics.com
+DOMAIN-SUFFIX,btloader.com
+DOMAIN-SUFFIX,ipify.org
 
 
 DOMAIN,cdn.jsdelivr.net
@@ -37,6 +40,7 @@ DOMAIN-KEYWORD,battleye
 DOMAIN-KEYWORD,intellij
 DOMAIN-KEYWORD,nvidiagrid
 DOMAIN-KEYWORD,drawboard
+DOMAIN-KEYWORD,olevod
 
 
 IP-CIDR 185.199.110.0/23, no-resolve
