@@ -43,11 +43,9 @@ payload:
   - DOMAIN-KEYWORD,arkservers
   - DOMAIN-KEYWORD,drawboard
   - DOMAIN-KEYWORD,olevod
-<<<<<<< HEAD
-  - DOMAIN-KEYWORD,igaming
-=======
   - DOMAIN-KEYWORD,appsflyer
->>>>>>> f1fea028b8099c00a8f94cc740e6848d6e00e672
+  - DOMAIN-KEYWORD,igaming
+  - DOMAIN-KEYWORD,ogs-gcm-eu-stage.nyxop.net
 
   - '185.199.110.0/23'
   - '13.107.246.0/23'
