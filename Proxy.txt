@@ -45,6 +45,7 @@ payload:
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,appsflyer
   - DOMAIN-KEYWORD,igaming
+  - DOMAIN_KEYWORD,adjust
   - DOMAIN-KEYWORD,ogs-gcm-eu-stage.nyxop.net
 
   - '185.199.110.0/23'
