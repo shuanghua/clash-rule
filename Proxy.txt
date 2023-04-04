@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,battlemetrics.com
   - DOMAIN-SUFFIX,btloader.com
   - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,mcc-mnc.com
 
 
   - DOMAIN,cdn.jsdelivr.net
@@ -45,6 +46,7 @@ payload:
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,appsflyer
   - DOMAIN-KEYWORD,igaming
+  - DOMAIN-KEYWORD,adjust
   - DOMAIN-KEYWORD,ogs-gcm-eu-stage.nyxop.net
   - DOMAIN-KEYWORD,apk-dl
   - DOMAIN-KEYWORD,ph-646

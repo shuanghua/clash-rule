@@ -43,6 +43,7 @@ DOMAIN-KEYWORD,nvidiagrid
 DOMAIN-KEYWORD,drawboard
 DOMAIN-KEYWORD,olevod
 DOMAIN-KEYWORD,igaming
+DOMAIN-KEYWORD,adjust
 
 
 IP-CIDR 185.199.110.0/23, no-resolve
