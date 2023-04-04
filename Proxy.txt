@@ -50,7 +50,8 @@ payload:
   - DOMAIN-KEYWORD,ogs-gcm-eu-stage.nyxop.net
   - DOMAIN-KEYWORD,apk-dl
   - DOMAIN-KEYWORD,ph-646
-  -DOMAIN-KEYWORD,291bet
+  - DOMAIN-KEYWORD,291bet
+  - DOMAIN-KEYWORD,apkcombo
 
   - '185.199.110.0/23'
   - '13.107.246.0/23'
