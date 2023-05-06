@@ -53,6 +53,7 @@ payload:
   - DOMAIN-KEYWORD,291bet
   - DOMAIN-KEYWORD,apkcombo
   - DOMAIN-KEYWORD,playzee
+  - DOMAIN-KEYWORD,openai
   
 
   - '185.199.110.0/23'
