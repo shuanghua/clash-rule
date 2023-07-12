@@ -54,6 +54,7 @@ payload:
   - DOMAIN-KEYWORD,apkcombo
   - DOMAIN-KEYWORD,playzee
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,jebet
   
 
   - '185.199.110.0/23'
