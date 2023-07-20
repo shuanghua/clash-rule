@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,btloader.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,mcc-mnc.com
+  - DOMAIN-SUFFIX,ypy.bet
 
 
   - DOMAIN,cdn.jsdelivr.net
