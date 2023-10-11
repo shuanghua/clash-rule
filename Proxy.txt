@@ -56,7 +56,7 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,jebet
   - DOMAIN-KEYWORD,openai
-  
+  - DOMAIN-KEYWORD,yinghua
 
   - '185.199.110.0/23'
   - '13.107.246.0/23'
