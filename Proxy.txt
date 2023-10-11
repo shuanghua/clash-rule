@@ -31,6 +31,7 @@ payload:
   - DOMAIN-KEYWORD,deepl
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,woocommerce
+  - DOMAIN-KEYWORD,91porn
   - DOMAIN-KEYWORD,ctfassets
   - DOMAIN-KEYWORD,hbzb
   - DOMAIN-KEYWORD,accuweather
@@ -39,6 +40,7 @@ payload:
   - DOMAIN-KEYWORD,battleye
   - DOMAIN-KEYWORD,intellij
   - DOMAIN-KEYWORD,nvidiagrid
+  - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,arkservers
   - DOMAIN-KEYWORD,drawboard
   - DOMAIN-KEYWORD,olevod
