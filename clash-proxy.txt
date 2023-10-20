@@ -23,9 +23,6 @@ payload:
 
 
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,91porn
-  - DOMAIN-KEYWORD,xvideos
-  - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,githubusercontent
   - DOMAIN-KEYWORD,jetbrains
