@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,btloader.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,mcc-mnc.com
+  - DOMAIN-SUFFIX,steam-chat.com
 
 
   - DOMAIN,cdn.jsdelivr.net
