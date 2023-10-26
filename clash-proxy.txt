@@ -51,3 +51,4 @@ payload:
   - DOMAIN-KEYWORD,apkcombo
   - DOMAIN-KEYWORD,playzee
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,discord
