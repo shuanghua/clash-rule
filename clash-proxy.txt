@@ -12,7 +12,6 @@ payload:
 
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,catalog.gamepass.com
-  - DOMAIN,store.steampowered.com
   - DOMAIN,www.battlemetrics.com
   - DOMAIN,www.wagnardsoft.com
   - DOMAIN,v2rayssr.com
