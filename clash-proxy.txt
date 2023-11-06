@@ -20,6 +20,7 @@ payload:
   - DOMAIN,sqlite.org
   - DOMAIN,www.utorrent.com
   - DOMAIN,www.vspeed.org
+  - DOMAIN-SUFFIX,steam-chat.com
 
 
   - DOMAIN-KEYWORD,google
