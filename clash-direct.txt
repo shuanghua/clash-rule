@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,netease
   - DOMAIN-KEYWORD,ithome
   - DOMAIN-KEYWORD,yinghua
+  - DOMAIN-KEYWORD,arkdedicated
 
 
   - DOMAIN-SUFFIX,163.com
