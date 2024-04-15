@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,steam-chat.com
 
 
-  - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,catalog.gamepass.com
   - DOMAIN,www.battlemetrics.com
   - DOMAIN,www.wagnardsoft.com
@@ -22,7 +21,7 @@ payload:
   - DOMAIN,www.vspeed.org
   - DOMAIN-SUFFIX,steam-chat.com
 
-
+  - DOMAIN-KEYWORD,jsdelivr
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,githubusercontent
