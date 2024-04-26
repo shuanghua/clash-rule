@@ -53,3 +53,4 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,cdn-lfs-us
+  - DOMAIN-KEYWORD,ip.sb
