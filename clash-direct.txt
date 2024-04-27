@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,yinghua
   - DOMAIN-KEYWORD,arkdedicated
   - DOMAIN-KEYWORD,.com.cn
+  - DOMAIN-KEYWORD,nel.goog
 
 
   - DOMAIN-SUFFIX,163.com
