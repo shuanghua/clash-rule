@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,666java.com
   - DOMAIN-SUFFIX,36kr.com
+  - DOMAIN-SUFFIX,asus.com
 
 
   - IP-CIDR, 127.0.0.0/8
