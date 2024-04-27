@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,ithome
   - DOMAIN-KEYWORD,yinghua
   - DOMAIN-KEYWORD,arkdedicated
+  - DOMAIN-KEYWORD,.com.cn
 
 
   - DOMAIN-SUFFIX,163.com
