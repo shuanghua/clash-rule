@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,com.cn
   - DOMAIN-KEYWORD,nel.goog
   - DOMAIN-KEYWORD,msn.cn
+  - DOMAIN-KEYWORD,msn.com
 
 
   - DOMAIN-SUFFIX,163.com
