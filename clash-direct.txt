@@ -18,5 +18,6 @@ payload:
   - DOMAIN-SUFFIX,666java.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-SUFFIX,romielf.com
 
   - IP-CIDR, 127.0.0.0/8
