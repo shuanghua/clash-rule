@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,mcc-mnc.com
   - DOMAIN-SUFFIX,steam-chat.com
 
-
+  - DOMAIN,www.redditstatic.com
   - DOMAIN,catalog.gamepass.com
   - DOMAIN,www.battlemetrics.com
   - DOMAIN,www.wagnardsoft.com
