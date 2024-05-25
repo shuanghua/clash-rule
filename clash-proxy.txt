@@ -54,3 +54,5 @@ payload:
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,cdn-lfs-us
   - DOMAIN-KEYWORD,ip.sb
+  - DOMAIN-KEYWORD,getadblock
+  - DOMAIN-KEYWORD,adblockplus
