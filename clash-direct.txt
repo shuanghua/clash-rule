@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN-SUFFIX,nn.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-KEYWORD,ximalaya
   - DOMAIN-KEYWORD,netease
   - DOMAIN-KEYWORD,ithome
