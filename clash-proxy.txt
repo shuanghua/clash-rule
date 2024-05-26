@@ -56,3 +56,4 @@ payload:
   - DOMAIN-KEYWORD,ip.sb
   - DOMAIN-KEYWORD,getadblock
   - DOMAIN-KEYWORD,adblockplus
+  - DOMAIN-KEYWORD,proandroiddev
