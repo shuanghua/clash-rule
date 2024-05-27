@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,mcc-mnc.com
   - DOMAIN-SUFFIX,steam-chat.com
-
   - DOMAIN,www.redditstatic.com
   - DOMAIN,catalog.gamepass.com
   - DOMAIN,www.battlemetrics.com
@@ -20,7 +19,6 @@ payload:
   - DOMAIN,www.utorrent.com
   - DOMAIN,www.vspeed.org
   - DOMAIN-SUFFIX,steam-chat.com
-
   - DOMAIN-KEYWORD,jsdelivr
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,github
