@@ -57,3 +57,4 @@ payload:
   - DOMAIN-KEYWORD,getadblock
   - DOMAIN-KEYWORD,adblockplus
   - DOMAIN-KEYWORD,proandroiddev
+  - DOMAIN-SUFFIX,linux.do
