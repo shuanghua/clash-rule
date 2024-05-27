@@ -56,3 +56,10 @@ payload:
   - DOMAIN-KEYWORD,adblockplus
   - DOMAIN-KEYWORD,proandroiddev
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,nvidia.com
+
+
+
+
+
+
