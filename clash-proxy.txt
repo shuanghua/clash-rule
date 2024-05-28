@@ -58,7 +58,9 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-KEYWORD,ntp.org
-
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,nelreports.net
 
 
 
