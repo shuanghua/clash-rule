@@ -64,6 +64,9 @@ payload:
   - DOMAIN-KEYWORD,forgecdn
   - DOMAIN-KEYWORD,curseforge
   - DOMAIN-KEYWORD,cloudfront
+  - DOMAIN-KEYWORD,razer
+  - DOMAIN-KEYWORD,razerzone
+  - DOMAIN-KEYWORD,razersynapse
 
 
 
