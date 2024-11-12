@@ -67,6 +67,7 @@ payload:
   - DOMAIN-KEYWORD,razer
   - DOMAIN-KEYWORD,razerzone
   - DOMAIN-KEYWORD,razersynapse
+  - DOMAIN-KEYWORD,bulianglin
 
 
 
