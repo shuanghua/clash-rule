@@ -1,5 +1,12 @@
 payload:
   - DOMAIN-SUFFIX,google.com
+
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,youtube.com
+
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,githubusercontent
+
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,cloudflare.com
@@ -21,8 +28,6 @@ payload:
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-KEYWORD,jsdelivr
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,githubusercontent
   - DOMAIN-KEYWORD,jetbrains
   - DOMAIN-KEYWORD,octotree
   - DOMAIN-KEYWORD,deepl
