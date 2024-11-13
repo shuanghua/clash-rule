@@ -72,7 +72,7 @@ payload:
   - DOMAIN-KEYWORD,razerzone
   - DOMAIN-KEYWORD,razersynapse
   - DOMAIN-KEYWORD,bulianglin
-
+  - DOMAIN-KEYWORD,oaichat
 
 
 
