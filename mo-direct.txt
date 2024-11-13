@@ -16,4 +16,5 @@ payload:
   - DOMAIN-SUFFIX,666java.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-KEYWORD,leigod
 

@@ -77,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,dmp-c.socoms.net
   - DOMAIN-SUFFIX,websitevisitorleads.com
   - DOMAIN-SUFFIX,hcfy.ai
+  - DOMAIN-SUFFIX,digicert.com
 
 
 
