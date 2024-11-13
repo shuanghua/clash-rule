@@ -65,8 +65,6 @@ payload:
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,nelreports.net
-  - DOMAIN-KEYWORD,forgecdn
-  - DOMAIN-KEYWORD,curseforge
   - DOMAIN-KEYWORD,cloudfront
   - DOMAIN-KEYWORD,razer
   - DOMAIN-KEYWORD,razerzone
