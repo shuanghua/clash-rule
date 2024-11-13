@@ -78,6 +78,8 @@ payload:
   - DOMAIN-SUFFIX,websitevisitorleads.com
   - DOMAIN-SUFFIX,hcfy.ai
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,salesforceliveagent.com
+  - DOMAIN-SUFFIX,vidyard.com
 
 
 
