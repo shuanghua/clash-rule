@@ -71,6 +71,7 @@ payload:
   - DOMAIN-KEYWORD,razersynapse
   - DOMAIN-KEYWORD,bulianglin
   - DOMAIN-KEYWORD,oaichat
+  - DOMAIN-SUFFIX,epochtimes.com
 
 
 
