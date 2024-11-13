@@ -71,7 +71,11 @@ payload:
   - DOMAIN-KEYWORD,razersynapse
   - DOMAIN-KEYWORD,bulianglin
   - DOMAIN-KEYWORD,oaichat
-  - DOMAIN-SUFFIX,epochtimes.com
+  - DOMAIN-KEYWORD,epoch
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,dmp-c.socoms.net
+  - DOMAIN-SUFFIX,websitevisitorleads.com
 
 
 
