@@ -80,6 +80,11 @@ payload:
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,salesforceliveagent.com
   - DOMAIN-SUFFIX,vidyard.com
+  - DOMAIN-SUFFIX,ispot.tv
+  - DOMAIN-SUFFIX,scorecardresearch.com
+  - DOMAIN-SUFFIX,evgnet.com
+  - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,salesforce-scrt.com
 
 
 
