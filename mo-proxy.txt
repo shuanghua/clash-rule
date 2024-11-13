@@ -76,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,dmp-c.socoms.net
   - DOMAIN-SUFFIX,websitevisitorleads.com
+  - DOMAIN-SUFFIX,hcfy.ai
 
 
 
