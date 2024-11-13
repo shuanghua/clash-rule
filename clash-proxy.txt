@@ -38,7 +38,6 @@ payload:
   - DOMAIN-KEYWORD,accuweather
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,survivetheark
-  - DOMAIN-KEYWORD,battleye
   - DOMAIN-KEYWORD,intellij
   - DOMAIN-KEYWORD,nvidiagrid
   - DOMAIN-KEYWORD,arkservers
