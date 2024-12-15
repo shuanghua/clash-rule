@@ -3,6 +3,7 @@ payload:
 
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,insert-koin.io
 
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,githubusercontent
